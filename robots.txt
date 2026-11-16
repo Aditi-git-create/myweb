@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://aditi-git-create.github.io/myweb/sitemap.xml
